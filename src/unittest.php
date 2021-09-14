@@ -1,7 +1,7 @@
 <?php
 namespace Limit81995\UnitMethod;
 
-class First{
+class unittest{
     public function index(){
         echo "hello composer autoload!";
     }
