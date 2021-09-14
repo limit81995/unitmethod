@@ -1,0 +1,19 @@
+{
+    "name": "limit81995/unitmethod",
+    "description": "常用的方法",
+    "authors": [
+        {
+            "name": "limit81995",
+            "email": "81995484@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Limit81995\\UnitMethod\\":"./src"
+        }
+    }
+}
