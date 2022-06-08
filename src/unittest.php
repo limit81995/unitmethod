@@ -3,6 +3,6 @@ namespace Limit81995\UnitMethod;
 
 class unittest{
     public function index(){
-        echo "hello composer autol123123o1111ad!";
+        echo "hello composer autol12312ass3o1111ad!";
     }
 }
